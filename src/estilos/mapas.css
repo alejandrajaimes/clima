@@ -1,0 +1,13 @@
+.imgmapas{
+    width: 250px;
+    height: 200px;
+}
+.container_mapas{
+    padding: 3rem 0 1px 0;
+    background-image: url(../img/fondo.jpg);
+      width: 100%;
+      height: 95vh;
+    padding-top: 50px;
+    padding-left: 20%;
+   
+}
